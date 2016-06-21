@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CameraCheck4</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_capture">ImageCaptureActivity</string>
+    <string name="title_activity_drawing">DrawingActivity</string>
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+</resources>
